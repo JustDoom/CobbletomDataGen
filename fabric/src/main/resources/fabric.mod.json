@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "minestomdatagen",
+  "version": "${version}",
+  "name": "Villager In A Bucket",
+  "description": "Pick them up in a bucket",
+  "authors": [
+    "JustDoom"
+  ],
+  "contact": {
+    "sources": "https://github.com/JustDoom/VillagerInABucket",
+    "issues": "https://github.com/JustDoom/VillagerInABucket/issues"
+  },
+  "license": "MIT",
+  "icon": "logo.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.imjustdoom.minestomdatagen.fabric.VillagerInABucketFabric"
+    ],
+    "client": [
+      "com.imjustdoom.minestomdatagen.fabric.ClientImpl"
+    ]
+  },
+  "mixins": [
+    "minestomdatagen-common.mixins.json"
+  ],
+  "depends": {
+    "fabric": "*",
+    "minecraft": ">=1.21",
+    "cobblemon": ">=1.6.0"
+  }
+}
