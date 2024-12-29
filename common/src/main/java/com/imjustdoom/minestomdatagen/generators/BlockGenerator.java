@@ -3,6 +3,7 @@ package com.imjustdoom.minestomdatagen.generators;
 import com.google.gson.Gson;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonObject;
+import com.imjustdoom.minestomdatagen.FireBlockImpl;
 import com.imjustdoom.minestomdatagen.mixin.BlockBehaviorMixin;
 import net.minecraft.core.BlockPos;
 import net.minecraft.core.registries.BuiltInRegistries;
@@ -76,7 +77,7 @@ public final class BlockGenerator extends DataGenerator {
                     }
                     properties.add(key, values);
                 }
-                if (properties.size() > 0) {
+                if (!properties.isEmpty()) {
                     blockJson.add("properties", properties);
                 }
             }
@@ -186,22 +187,18 @@ public final class BlockGenerator extends DataGenerator {
     }
 
     private static final FireBlock fireBlock = (FireBlock) Blocks.FIRE;
-    private static final Method canBurn;
+//    private static final Method canBurn;
 
     private static boolean isFlammable(@NotNull BlockState blockState) {
-        try {
-            return (boolean) canBurn.invoke(fireBlock, blockState);
-        } catch (InvocationTargetException | IllegalAccessException e) {
-            throw new RuntimeException(e);
-        }
+        return ((FireBlockImpl) fireBlock).isFlammable(blockState);
     }
 
-    static {
-        try {
-            canBurn = FireBlock.class.getDeclaredMethod("canBurn", BlockState.class);
-            canBurn.setAccessible(true);
-        } catch (NoSuchMethodException e) {
-            throw new RuntimeException(e);
-        }
-    }
+//    static {
+//        try {
+//            canBurn = FireBlock.class.getDeclaredMethod("canBurn", BlockState.class);
+//            canBurn.setAccessible(true);
+//        } catch (NoSuchMethodException e) {
+//            throw new RuntimeException(e);
+//        }
+//    }
 }

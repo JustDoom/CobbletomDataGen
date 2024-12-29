@@ -10047,42 +10047,42 @@
     "id": 771,
     "translationKey": "item.minecraft.carrot_on_a_stick",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "25",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "25",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "minecraft:warped_fungus_on_a_stick": {
     "id": 772,
     "translationKey": "item.minecraft.warped_fungus_on_a_stick",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "100",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "100",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "minecraft:elytra": {
     "id": 773,
     "translationKey": "item.minecraft.elytra",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "432",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"uncommon\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "432",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"uncommon\""
     }
   },
   "minecraft:oak_boat": {
@@ -10331,14 +10331,14 @@
     "id": 794,
     "translationKey": "item.minecraft.turtle_helmet",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "275",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "275",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     },
     "armorProperties": {
       "defense": 2,
@@ -10374,14 +10374,14 @@
     "id": 797,
     "translationKey": "item.minecraft.wolf_armor",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "64",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "64",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     },
     "armorProperties": {
       "defense": 11,
@@ -10393,14 +10393,14 @@
     "id": 798,
     "translationKey": "item.minecraft.flint_and_steel",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "64",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "64",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "minecraft:bowl": {
@@ -10432,14 +10432,14 @@
     "id": 801,
     "translationKey": "item.minecraft.bow",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "384",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "384",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "minecraft:arrow": {
@@ -10640,455 +10640,455 @@
     "id": 818,
     "translationKey": "item.minecraft.wooden_sword",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
-      "minecraft:tool": "{damage_per_block: 2, rules: [{blocks: \"minecraft:cobweb\", correct_for_drops: 1b, speed: 15.0f}, {blocks: \"#minecraft:sword_efficient\", speed: 1.5f}]}",
       "minecraft:attribute_modifiers": "{modifiers: [{amount: 3.0d, id: \"minecraft:base_attack_damage\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_damage\"}, {amount: -2.4000000953674316d, id: \"minecraft:base_attack_speed\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_speed\"}]}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "59",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:tool": "{damage_per_block: 2, rules: [{blocks: \"minecraft:cobweb\", correct_for_drops: 1b, speed: 15.0f}, {blocks: \"#minecraft:sword_efficient\", speed: 1.5f}]}",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "59",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "minecraft:wooden_shovel": {
     "id": 819,
     "translationKey": "item.minecraft.wooden_shovel",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
-      "minecraft:tool": "{rules: [{blocks: \"#minecraft:incorrect_for_wooden_tool\", correct_for_drops: 0b}, {blocks: \"#minecraft:mineable/shovel\", correct_for_drops: 1b, speed: 2.0f}]}",
       "minecraft:attribute_modifiers": "{modifiers: [{amount: 1.5d, id: \"minecraft:base_attack_damage\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_damage\"}, {amount: -3.0d, id: \"minecraft:base_attack_speed\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_speed\"}]}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "59",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:tool": "{rules: [{blocks: \"#minecraft:incorrect_for_wooden_tool\", correct_for_drops: 0b}, {blocks: \"#minecraft:mineable/shovel\", correct_for_drops: 1b, speed: 2.0f}]}",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "59",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "minecraft:wooden_pickaxe": {
     "id": 820,
     "translationKey": "item.minecraft.wooden_pickaxe",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
-      "minecraft:tool": "{rules: [{blocks: \"#minecraft:incorrect_for_wooden_tool\", correct_for_drops: 0b}, {blocks: \"#minecraft:mineable/pickaxe\", correct_for_drops: 1b, speed: 2.0f}]}",
       "minecraft:attribute_modifiers": "{modifiers: [{amount: 1.0d, id: \"minecraft:base_attack_damage\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_damage\"}, {amount: -2.799999952316284d, id: \"minecraft:base_attack_speed\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_speed\"}]}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "59",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:tool": "{rules: [{blocks: \"#minecraft:incorrect_for_wooden_tool\", correct_for_drops: 0b}, {blocks: \"#minecraft:mineable/pickaxe\", correct_for_drops: 1b, speed: 2.0f}]}",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "59",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "minecraft:wooden_axe": {
     "id": 821,
     "translationKey": "item.minecraft.wooden_axe",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
-      "minecraft:tool": "{rules: [{blocks: \"#minecraft:incorrect_for_wooden_tool\", correct_for_drops: 0b}, {blocks: \"#minecraft:mineable/axe\", correct_for_drops: 1b, speed: 2.0f}]}",
       "minecraft:attribute_modifiers": "{modifiers: [{amount: 6.0d, id: \"minecraft:base_attack_damage\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_damage\"}, {amount: -3.200000047683716d, id: \"minecraft:base_attack_speed\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_speed\"}]}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "59",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:tool": "{rules: [{blocks: \"#minecraft:incorrect_for_wooden_tool\", correct_for_drops: 0b}, {blocks: \"#minecraft:mineable/axe\", correct_for_drops: 1b, speed: 2.0f}]}",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "59",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "minecraft:wooden_hoe": {
     "id": 822,
     "translationKey": "item.minecraft.wooden_hoe",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
-      "minecraft:tool": "{rules: [{blocks: \"#minecraft:incorrect_for_wooden_tool\", correct_for_drops: 0b}, {blocks: \"#minecraft:mineable/hoe\", correct_for_drops: 1b, speed: 2.0f}]}",
       "minecraft:attribute_modifiers": "{modifiers: [{amount: 0.0d, id: \"minecraft:base_attack_damage\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_damage\"}, {amount: -3.0d, id: \"minecraft:base_attack_speed\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_speed\"}]}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "59",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:tool": "{rules: [{blocks: \"#minecraft:incorrect_for_wooden_tool\", correct_for_drops: 0b}, {blocks: \"#minecraft:mineable/hoe\", correct_for_drops: 1b, speed: 2.0f}]}",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "59",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "minecraft:stone_sword": {
     "id": 823,
     "translationKey": "item.minecraft.stone_sword",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
-      "minecraft:tool": "{damage_per_block: 2, rules: [{blocks: \"minecraft:cobweb\", correct_for_drops: 1b, speed: 15.0f}, {blocks: \"#minecraft:sword_efficient\", speed: 1.5f}]}",
       "minecraft:attribute_modifiers": "{modifiers: [{amount: 4.0d, id: \"minecraft:base_attack_damage\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_damage\"}, {amount: -2.4000000953674316d, id: \"minecraft:base_attack_speed\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_speed\"}]}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "131",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:tool": "{damage_per_block: 2, rules: [{blocks: \"minecraft:cobweb\", correct_for_drops: 1b, speed: 15.0f}, {blocks: \"#minecraft:sword_efficient\", speed: 1.5f}]}",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "131",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "minecraft:stone_shovel": {
     "id": 824,
     "translationKey": "item.minecraft.stone_shovel",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
-      "minecraft:tool": "{rules: [{blocks: \"#minecraft:incorrect_for_stone_tool\", correct_for_drops: 0b}, {blocks: \"#minecraft:mineable/shovel\", correct_for_drops: 1b, speed: 4.0f}]}",
       "minecraft:attribute_modifiers": "{modifiers: [{amount: 2.5d, id: \"minecraft:base_attack_damage\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_damage\"}, {amount: -3.0d, id: \"minecraft:base_attack_speed\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_speed\"}]}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "131",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:tool": "{rules: [{blocks: \"#minecraft:incorrect_for_stone_tool\", correct_for_drops: 0b}, {blocks: \"#minecraft:mineable/shovel\", correct_for_drops: 1b, speed: 4.0f}]}",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "131",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "minecraft:stone_pickaxe": {
     "id": 825,
     "translationKey": "item.minecraft.stone_pickaxe",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
-      "minecraft:tool": "{rules: [{blocks: \"#minecraft:incorrect_for_stone_tool\", correct_for_drops: 0b}, {blocks: \"#minecraft:mineable/pickaxe\", correct_for_drops: 1b, speed: 4.0f}]}",
       "minecraft:attribute_modifiers": "{modifiers: [{amount: 2.0d, id: \"minecraft:base_attack_damage\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_damage\"}, {amount: -2.799999952316284d, id: \"minecraft:base_attack_speed\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_speed\"}]}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "131",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:tool": "{rules: [{blocks: \"#minecraft:incorrect_for_stone_tool\", correct_for_drops: 0b}, {blocks: \"#minecraft:mineable/pickaxe\", correct_for_drops: 1b, speed: 4.0f}]}",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "131",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "minecraft:stone_axe": {
     "id": 826,
     "translationKey": "item.minecraft.stone_axe",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
-      "minecraft:tool": "{rules: [{blocks: \"#minecraft:incorrect_for_stone_tool\", correct_for_drops: 0b}, {blocks: \"#minecraft:mineable/axe\", correct_for_drops: 1b, speed: 4.0f}]}",
       "minecraft:attribute_modifiers": "{modifiers: [{amount: 8.0d, id: \"minecraft:base_attack_damage\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_damage\"}, {amount: -3.200000047683716d, id: \"minecraft:base_attack_speed\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_speed\"}]}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "131",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:tool": "{rules: [{blocks: \"#minecraft:incorrect_for_stone_tool\", correct_for_drops: 0b}, {blocks: \"#minecraft:mineable/axe\", correct_for_drops: 1b, speed: 4.0f}]}",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "131",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "minecraft:stone_hoe": {
     "id": 827,
     "translationKey": "item.minecraft.stone_hoe",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
-      "minecraft:tool": "{rules: [{blocks: \"#minecraft:incorrect_for_stone_tool\", correct_for_drops: 0b}, {blocks: \"#minecraft:mineable/hoe\", correct_for_drops: 1b, speed: 4.0f}]}",
       "minecraft:attribute_modifiers": "{modifiers: [{amount: 0.0d, id: \"minecraft:base_attack_damage\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_damage\"}, {amount: -2.0d, id: \"minecraft:base_attack_speed\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_speed\"}]}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "131",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:tool": "{rules: [{blocks: \"#minecraft:incorrect_for_stone_tool\", correct_for_drops: 0b}, {blocks: \"#minecraft:mineable/hoe\", correct_for_drops: 1b, speed: 4.0f}]}",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "131",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "minecraft:golden_sword": {
     "id": 828,
     "translationKey": "item.minecraft.golden_sword",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
-      "minecraft:tool": "{damage_per_block: 2, rules: [{blocks: \"minecraft:cobweb\", correct_for_drops: 1b, speed: 15.0f}, {blocks: \"#minecraft:sword_efficient\", speed: 1.5f}]}",
       "minecraft:attribute_modifiers": "{modifiers: [{amount: 3.0d, id: \"minecraft:base_attack_damage\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_damage\"}, {amount: -2.4000000953674316d, id: \"minecraft:base_attack_speed\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_speed\"}]}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "32",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:tool": "{damage_per_block: 2, rules: [{blocks: \"minecraft:cobweb\", correct_for_drops: 1b, speed: 15.0f}, {blocks: \"#minecraft:sword_efficient\", speed: 1.5f}]}",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "32",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "minecraft:golden_shovel": {
     "id": 829,
     "translationKey": "item.minecraft.golden_shovel",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
-      "minecraft:tool": "{rules: [{blocks: \"#minecraft:incorrect_for_gold_tool\", correct_for_drops: 0b}, {blocks: \"#minecraft:mineable/shovel\", correct_for_drops: 1b, speed: 12.0f}]}",
       "minecraft:attribute_modifiers": "{modifiers: [{amount: 1.5d, id: \"minecraft:base_attack_damage\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_damage\"}, {amount: -3.0d, id: \"minecraft:base_attack_speed\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_speed\"}]}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "32",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:tool": "{rules: [{blocks: \"#minecraft:incorrect_for_gold_tool\", correct_for_drops: 0b}, {blocks: \"#minecraft:mineable/shovel\", correct_for_drops: 1b, speed: 12.0f}]}",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "32",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "minecraft:golden_pickaxe": {
     "id": 830,
     "translationKey": "item.minecraft.golden_pickaxe",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
-      "minecraft:tool": "{rules: [{blocks: \"#minecraft:incorrect_for_gold_tool\", correct_for_drops: 0b}, {blocks: \"#minecraft:mineable/pickaxe\", correct_for_drops: 1b, speed: 12.0f}]}",
       "minecraft:attribute_modifiers": "{modifiers: [{amount: 1.0d, id: \"minecraft:base_attack_damage\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_damage\"}, {amount: -2.799999952316284d, id: \"minecraft:base_attack_speed\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_speed\"}]}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "32",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:tool": "{rules: [{blocks: \"#minecraft:incorrect_for_gold_tool\", correct_for_drops: 0b}, {blocks: \"#minecraft:mineable/pickaxe\", correct_for_drops: 1b, speed: 12.0f}]}",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "32",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "minecraft:golden_axe": {
     "id": 831,
     "translationKey": "item.minecraft.golden_axe",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
-      "minecraft:tool": "{rules: [{blocks: \"#minecraft:incorrect_for_gold_tool\", correct_for_drops: 0b}, {blocks: \"#minecraft:mineable/axe\", correct_for_drops: 1b, speed: 12.0f}]}",
       "minecraft:attribute_modifiers": "{modifiers: [{amount: 6.0d, id: \"minecraft:base_attack_damage\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_damage\"}, {amount: -3.0d, id: \"minecraft:base_attack_speed\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_speed\"}]}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "32",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:tool": "{rules: [{blocks: \"#minecraft:incorrect_for_gold_tool\", correct_for_drops: 0b}, {blocks: \"#minecraft:mineable/axe\", correct_for_drops: 1b, speed: 12.0f}]}",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "32",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "minecraft:golden_hoe": {
     "id": 832,
     "translationKey": "item.minecraft.golden_hoe",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
-      "minecraft:tool": "{rules: [{blocks: \"#minecraft:incorrect_for_gold_tool\", correct_for_drops: 0b}, {blocks: \"#minecraft:mineable/hoe\", correct_for_drops: 1b, speed: 12.0f}]}",
       "minecraft:attribute_modifiers": "{modifiers: [{amount: 0.0d, id: \"minecraft:base_attack_damage\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_damage\"}, {amount: -3.0d, id: \"minecraft:base_attack_speed\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_speed\"}]}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "32",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:tool": "{rules: [{blocks: \"#minecraft:incorrect_for_gold_tool\", correct_for_drops: 0b}, {blocks: \"#minecraft:mineable/hoe\", correct_for_drops: 1b, speed: 12.0f}]}",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "32",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "minecraft:iron_sword": {
     "id": 833,
     "translationKey": "item.minecraft.iron_sword",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
-      "minecraft:tool": "{damage_per_block: 2, rules: [{blocks: \"minecraft:cobweb\", correct_for_drops: 1b, speed: 15.0f}, {blocks: \"#minecraft:sword_efficient\", speed: 1.5f}]}",
       "minecraft:attribute_modifiers": "{modifiers: [{amount: 5.0d, id: \"minecraft:base_attack_damage\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_damage\"}, {amount: -2.4000000953674316d, id: \"minecraft:base_attack_speed\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_speed\"}]}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "250",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:tool": "{damage_per_block: 2, rules: [{blocks: \"minecraft:cobweb\", correct_for_drops: 1b, speed: 15.0f}, {blocks: \"#minecraft:sword_efficient\", speed: 1.5f}]}",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "250",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "minecraft:iron_shovel": {
     "id": 834,
     "translationKey": "item.minecraft.iron_shovel",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
-      "minecraft:tool": "{rules: [{blocks: \"#minecraft:incorrect_for_iron_tool\", correct_for_drops: 0b}, {blocks: \"#minecraft:mineable/shovel\", correct_for_drops: 1b, speed: 6.0f}]}",
       "minecraft:attribute_modifiers": "{modifiers: [{amount: 3.5d, id: \"minecraft:base_attack_damage\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_damage\"}, {amount: -3.0d, id: \"minecraft:base_attack_speed\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_speed\"}]}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "250",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:tool": "{rules: [{blocks: \"#minecraft:incorrect_for_iron_tool\", correct_for_drops: 0b}, {blocks: \"#minecraft:mineable/shovel\", correct_for_drops: 1b, speed: 6.0f}]}",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "250",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "minecraft:iron_pickaxe": {
     "id": 835,
     "translationKey": "item.minecraft.iron_pickaxe",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
-      "minecraft:tool": "{rules: [{blocks: \"#minecraft:incorrect_for_iron_tool\", correct_for_drops: 0b}, {blocks: \"#minecraft:mineable/pickaxe\", correct_for_drops: 1b, speed: 6.0f}]}",
       "minecraft:attribute_modifiers": "{modifiers: [{amount: 3.0d, id: \"minecraft:base_attack_damage\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_damage\"}, {amount: -2.799999952316284d, id: \"minecraft:base_attack_speed\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_speed\"}]}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "250",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:tool": "{rules: [{blocks: \"#minecraft:incorrect_for_iron_tool\", correct_for_drops: 0b}, {blocks: \"#minecraft:mineable/pickaxe\", correct_for_drops: 1b, speed: 6.0f}]}",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "250",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "minecraft:iron_axe": {
     "id": 836,
     "translationKey": "item.minecraft.iron_axe",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
-      "minecraft:tool": "{rules: [{blocks: \"#minecraft:incorrect_for_iron_tool\", correct_for_drops: 0b}, {blocks: \"#minecraft:mineable/axe\", correct_for_drops: 1b, speed: 6.0f}]}",
       "minecraft:attribute_modifiers": "{modifiers: [{amount: 8.0d, id: \"minecraft:base_attack_damage\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_damage\"}, {amount: -3.0999999046325684d, id: \"minecraft:base_attack_speed\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_speed\"}]}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "250",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:tool": "{rules: [{blocks: \"#minecraft:incorrect_for_iron_tool\", correct_for_drops: 0b}, {blocks: \"#minecraft:mineable/axe\", correct_for_drops: 1b, speed: 6.0f}]}",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "250",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "minecraft:iron_hoe": {
     "id": 837,
     "translationKey": "item.minecraft.iron_hoe",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
-      "minecraft:tool": "{rules: [{blocks: \"#minecraft:incorrect_for_iron_tool\", correct_for_drops: 0b}, {blocks: \"#minecraft:mineable/hoe\", correct_for_drops: 1b, speed: 6.0f}]}",
       "minecraft:attribute_modifiers": "{modifiers: [{amount: 0.0d, id: \"minecraft:base_attack_damage\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_damage\"}, {amount: -1.0d, id: \"minecraft:base_attack_speed\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_speed\"}]}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "250",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:tool": "{rules: [{blocks: \"#minecraft:incorrect_for_iron_tool\", correct_for_drops: 0b}, {blocks: \"#minecraft:mineable/hoe\", correct_for_drops: 1b, speed: 6.0f}]}",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "250",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "minecraft:diamond_sword": {
     "id": 838,
     "translationKey": "item.minecraft.diamond_sword",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
-      "minecraft:tool": "{damage_per_block: 2, rules: [{blocks: \"minecraft:cobweb\", correct_for_drops: 1b, speed: 15.0f}, {blocks: \"#minecraft:sword_efficient\", speed: 1.5f}]}",
       "minecraft:attribute_modifiers": "{modifiers: [{amount: 6.0d, id: \"minecraft:base_attack_damage\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_damage\"}, {amount: -2.4000000953674316d, id: \"minecraft:base_attack_speed\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_speed\"}]}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "1561",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:tool": "{damage_per_block: 2, rules: [{blocks: \"minecraft:cobweb\", correct_for_drops: 1b, speed: 15.0f}, {blocks: \"#minecraft:sword_efficient\", speed: 1.5f}]}",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "1561",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "minecraft:diamond_shovel": {
     "id": 839,
     "translationKey": "item.minecraft.diamond_shovel",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
-      "minecraft:tool": "{rules: [{blocks: \"#minecraft:incorrect_for_diamond_tool\", correct_for_drops: 0b}, {blocks: \"#minecraft:mineable/shovel\", correct_for_drops: 1b, speed: 8.0f}]}",
       "minecraft:attribute_modifiers": "{modifiers: [{amount: 4.5d, id: \"minecraft:base_attack_damage\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_damage\"}, {amount: -3.0d, id: \"minecraft:base_attack_speed\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_speed\"}]}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "1561",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:tool": "{rules: [{blocks: \"#minecraft:incorrect_for_diamond_tool\", correct_for_drops: 0b}, {blocks: \"#minecraft:mineable/shovel\", correct_for_drops: 1b, speed: 8.0f}]}",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "1561",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "minecraft:diamond_pickaxe": {
     "id": 840,
     "translationKey": "item.minecraft.diamond_pickaxe",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
-      "minecraft:tool": "{rules: [{blocks: \"#minecraft:incorrect_for_diamond_tool\", correct_for_drops: 0b}, {blocks: \"#minecraft:mineable/pickaxe\", correct_for_drops: 1b, speed: 8.0f}]}",
       "minecraft:attribute_modifiers": "{modifiers: [{amount: 4.0d, id: \"minecraft:base_attack_damage\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_damage\"}, {amount: -2.799999952316284d, id: \"minecraft:base_attack_speed\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_speed\"}]}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "1561",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:tool": "{rules: [{blocks: \"#minecraft:incorrect_for_diamond_tool\", correct_for_drops: 0b}, {blocks: \"#minecraft:mineable/pickaxe\", correct_for_drops: 1b, speed: 8.0f}]}",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "1561",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "minecraft:diamond_axe": {
     "id": 841,
     "translationKey": "item.minecraft.diamond_axe",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
-      "minecraft:tool": "{rules: [{blocks: \"#minecraft:incorrect_for_diamond_tool\", correct_for_drops: 0b}, {blocks: \"#minecraft:mineable/axe\", correct_for_drops: 1b, speed: 8.0f}]}",
       "minecraft:attribute_modifiers": "{modifiers: [{amount: 8.0d, id: \"minecraft:base_attack_damage\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_damage\"}, {amount: -3.0d, id: \"minecraft:base_attack_speed\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_speed\"}]}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "1561",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:tool": "{rules: [{blocks: \"#minecraft:incorrect_for_diamond_tool\", correct_for_drops: 0b}, {blocks: \"#minecraft:mineable/axe\", correct_for_drops: 1b, speed: 8.0f}]}",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "1561",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "minecraft:diamond_hoe": {
     "id": 842,
     "translationKey": "item.minecraft.diamond_hoe",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
-      "minecraft:tool": "{rules: [{blocks: \"#minecraft:incorrect_for_diamond_tool\", correct_for_drops: 0b}, {blocks: \"#minecraft:mineable/hoe\", correct_for_drops: 1b, speed: 8.0f}]}",
       "minecraft:attribute_modifiers": "{modifiers: [{amount: 0.0d, id: \"minecraft:base_attack_damage\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_damage\"}, {amount: 0.0d, id: \"minecraft:base_attack_speed\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_speed\"}]}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "1561",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:tool": "{rules: [{blocks: \"#minecraft:incorrect_for_diamond_tool\", correct_for_drops: 0b}, {blocks: \"#minecraft:mineable/hoe\", correct_for_drops: 1b, speed: 8.0f}]}",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "1561",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "minecraft:netherite_sword": {
     "id": 843,
     "translationKey": "item.minecraft.netherite_sword",
     "components": {
-      "minecraft:fire_resistant": "{}",
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
-      "minecraft:tool": "{damage_per_block: 2, rules: [{blocks: \"minecraft:cobweb\", correct_for_drops: 1b, speed: 15.0f}, {blocks: \"#minecraft:sword_efficient\", speed: 1.5f}]}",
       "minecraft:attribute_modifiers": "{modifiers: [{amount: 7.0d, id: \"minecraft:base_attack_damage\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_damage\"}, {amount: -2.4000000953674316d, id: \"minecraft:base_attack_speed\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_speed\"}]}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "2031",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:fire_resistant": "{}",
+      "minecraft:damage": "0",
+      "minecraft:tool": "{damage_per_block: 2, rules: [{blocks: \"minecraft:cobweb\", correct_for_drops: 1b, speed: 15.0f}, {blocks: \"#minecraft:sword_efficient\", speed: 1.5f}]}",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "2031",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "minecraft:netherite_shovel": {
     "id": 844,
     "translationKey": "item.minecraft.netherite_shovel",
     "components": {
-      "minecraft:fire_resistant": "{}",
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
-      "minecraft:tool": "{rules: [{blocks: \"#minecraft:incorrect_for_netherite_tool\", correct_for_drops: 0b}, {blocks: \"#minecraft:mineable/shovel\", correct_for_drops: 1b, speed: 9.0f}]}",
       "minecraft:attribute_modifiers": "{modifiers: [{amount: 5.5d, id: \"minecraft:base_attack_damage\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_damage\"}, {amount: -3.0d, id: \"minecraft:base_attack_speed\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_speed\"}]}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "2031",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:fire_resistant": "{}",
+      "minecraft:damage": "0",
+      "minecraft:tool": "{rules: [{blocks: \"#minecraft:incorrect_for_netherite_tool\", correct_for_drops: 0b}, {blocks: \"#minecraft:mineable/shovel\", correct_for_drops: 1b, speed: 9.0f}]}",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "2031",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "minecraft:netherite_pickaxe": {
     "id": 845,
     "translationKey": "item.minecraft.netherite_pickaxe",
     "components": {
-      "minecraft:fire_resistant": "{}",
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
-      "minecraft:tool": "{rules: [{blocks: \"#minecraft:incorrect_for_netherite_tool\", correct_for_drops: 0b}, {blocks: \"#minecraft:mineable/pickaxe\", correct_for_drops: 1b, speed: 9.0f}]}",
       "minecraft:attribute_modifiers": "{modifiers: [{amount: 5.0d, id: \"minecraft:base_attack_damage\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_damage\"}, {amount: -2.799999952316284d, id: \"minecraft:base_attack_speed\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_speed\"}]}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "2031",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:fire_resistant": "{}",
+      "minecraft:damage": "0",
+      "minecraft:tool": "{rules: [{blocks: \"#minecraft:incorrect_for_netherite_tool\", correct_for_drops: 0b}, {blocks: \"#minecraft:mineable/pickaxe\", correct_for_drops: 1b, speed: 9.0f}]}",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "2031",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "minecraft:netherite_axe": {
     "id": 846,
     "translationKey": "item.minecraft.netherite_axe",
     "components": {
-      "minecraft:fire_resistant": "{}",
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
-      "minecraft:tool": "{rules: [{blocks: \"#minecraft:incorrect_for_netherite_tool\", correct_for_drops: 0b}, {blocks: \"#minecraft:mineable/axe\", correct_for_drops: 1b, speed: 9.0f}]}",
       "minecraft:attribute_modifiers": "{modifiers: [{amount: 9.0d, id: \"minecraft:base_attack_damage\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_damage\"}, {amount: -3.0d, id: \"minecraft:base_attack_speed\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_speed\"}]}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "2031",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:fire_resistant": "{}",
+      "minecraft:damage": "0",
+      "minecraft:tool": "{rules: [{blocks: \"#minecraft:incorrect_for_netherite_tool\", correct_for_drops: 0b}, {blocks: \"#minecraft:mineable/axe\", correct_for_drops: 1b, speed: 9.0f}]}",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "2031",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "minecraft:netherite_hoe": {
     "id": 847,
     "translationKey": "item.minecraft.netherite_hoe",
     "components": {
-      "minecraft:fire_resistant": "{}",
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
-      "minecraft:tool": "{rules: [{blocks: \"#minecraft:incorrect_for_netherite_tool\", correct_for_drops: 0b}, {blocks: \"#minecraft:mineable/hoe\", correct_for_drops: 1b, speed: 9.0f}]}",
       "minecraft:attribute_modifiers": "{modifiers: [{amount: 0.0d, id: \"minecraft:base_attack_damage\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_damage\"}, {amount: 0.0d, id: \"minecraft:base_attack_speed\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_speed\"}]}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "2031",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:fire_resistant": "{}",
+      "minecraft:damage": "0",
+      "minecraft:tool": "{rules: [{blocks: \"#minecraft:incorrect_for_netherite_tool\", correct_for_drops: 0b}, {blocks: \"#minecraft:mineable/hoe\", correct_for_drops: 1b, speed: 9.0f}]}",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "2031",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "minecraft:stick": {
@@ -11195,14 +11195,14 @@
     "id": 856,
     "translationKey": "item.minecraft.leather_helmet",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "55",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "55",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     },
     "armorProperties": {
       "defense": 1,
@@ -11214,14 +11214,14 @@
     "id": 857,
     "translationKey": "item.minecraft.leather_chestplate",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "80",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "80",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     },
     "armorProperties": {
       "defense": 3,
@@ -11233,14 +11233,14 @@
     "id": 858,
     "translationKey": "item.minecraft.leather_leggings",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "75",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "75",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     },
     "armorProperties": {
       "defense": 2,
@@ -11252,14 +11252,14 @@
     "id": 859,
     "translationKey": "item.minecraft.leather_boots",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "65",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "65",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     },
     "armorProperties": {
       "defense": 1,
@@ -11271,14 +11271,14 @@
     "id": 860,
     "translationKey": "item.minecraft.chainmail_helmet",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "165",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "165",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     },
     "armorProperties": {
       "defense": 2,
@@ -11290,14 +11290,14 @@
     "id": 861,
     "translationKey": "item.minecraft.chainmail_chestplate",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "240",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "240",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     },
     "armorProperties": {
       "defense": 5,
@@ -11309,14 +11309,14 @@
     "id": 862,
     "translationKey": "item.minecraft.chainmail_leggings",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "225",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "225",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     },
     "armorProperties": {
       "defense": 4,
@@ -11328,14 +11328,14 @@
     "id": 863,
     "translationKey": "item.minecraft.chainmail_boots",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "195",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "195",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     },
     "armorProperties": {
       "defense": 1,
@@ -11347,14 +11347,14 @@
     "id": 864,
     "translationKey": "item.minecraft.iron_helmet",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "165",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "165",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     },
     "armorProperties": {
       "defense": 2,
@@ -11366,14 +11366,14 @@
     "id": 865,
     "translationKey": "item.minecraft.iron_chestplate",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "240",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "240",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     },
     "armorProperties": {
       "defense": 6,
@@ -11385,14 +11385,14 @@
     "id": 866,
     "translationKey": "item.minecraft.iron_leggings",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "225",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "225",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     },
     "armorProperties": {
       "defense": 5,
@@ -11404,14 +11404,14 @@
     "id": 867,
     "translationKey": "item.minecraft.iron_boots",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "195",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "195",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     },
     "armorProperties": {
       "defense": 2,
@@ -11423,14 +11423,14 @@
     "id": 868,
     "translationKey": "item.minecraft.diamond_helmet",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "363",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "363",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     },
     "armorProperties": {
       "defense": 3,
@@ -11442,14 +11442,14 @@
     "id": 869,
     "translationKey": "item.minecraft.diamond_chestplate",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "528",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "528",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     },
     "armorProperties": {
       "defense": 8,
@@ -11461,14 +11461,14 @@
     "id": 870,
     "translationKey": "item.minecraft.diamond_leggings",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "495",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "495",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     },
     "armorProperties": {
       "defense": 6,
@@ -11480,14 +11480,14 @@
     "id": 871,
     "translationKey": "item.minecraft.diamond_boots",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "429",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "429",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     },
     "armorProperties": {
       "defense": 3,
@@ -11499,14 +11499,14 @@
     "id": 872,
     "translationKey": "item.minecraft.golden_helmet",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "77",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "77",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     },
     "armorProperties": {
       "defense": 2,
@@ -11518,14 +11518,14 @@
     "id": 873,
     "translationKey": "item.minecraft.golden_chestplate",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "112",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "112",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     },
     "armorProperties": {
       "defense": 5,
@@ -11537,14 +11537,14 @@
     "id": 874,
     "translationKey": "item.minecraft.golden_leggings",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "105",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "105",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     },
     "armorProperties": {
       "defense": 3,
@@ -11556,14 +11556,14 @@
     "id": 875,
     "translationKey": "item.minecraft.golden_boots",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "91",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "91",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     },
     "armorProperties": {
       "defense": 1,
@@ -11575,15 +11575,15 @@
     "id": 876,
     "translationKey": "item.minecraft.netherite_helmet",
     "components": {
-      "minecraft:fire_resistant": "{}",
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "407",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:fire_resistant": "{}",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "407",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     },
     "armorProperties": {
       "defense": 3,
@@ -11595,15 +11595,15 @@
     "id": 877,
     "translationKey": "item.minecraft.netherite_chestplate",
     "components": {
-      "minecraft:fire_resistant": "{}",
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "592",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:fire_resistant": "{}",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "592",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     },
     "armorProperties": {
       "defense": 8,
@@ -11615,15 +11615,15 @@
     "id": 878,
     "translationKey": "item.minecraft.netherite_leggings",
     "components": {
-      "minecraft:fire_resistant": "{}",
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "555",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:fire_resistant": "{}",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "555",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     },
     "armorProperties": {
       "defense": 6,
@@ -11635,15 +11635,15 @@
     "id": 879,
     "translationKey": "item.minecraft.netherite_boots",
     "components": {
-      "minecraft:fire_resistant": "{}",
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "481",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:fire_resistant": "{}",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "481",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     },
     "armorProperties": {
       "defense": 3,
@@ -11718,14 +11718,14 @@
     "id": 885,
     "translationKey": "item.minecraft.enchanted_golden_apple",
     "components": {
-      "minecraft:enchantment_glint_override": "1b",
       "minecraft:food": "{can_always_eat: 1b, effects: [{effect: {amplifier: 1b, duration: 400, id: \"minecraft:regeneration\", show_icon: 1b}}, {effect: {duration: 6000, id: \"minecraft:resistance\", show_icon: 1b}}, {effect: {duration: 6000, id: \"minecraft:fire_resistance\", show_icon: 1b}}, {effect: {amplifier: 3b, duration: 2400, id: \"minecraft:absorption\", show_icon: 1b}}], nutrition: 4, saturation: 9.6f}",
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
       "minecraft:max_stack_size": "64",
-      "minecraft:rarity": "\"epic\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:enchantment_glint_override": "1b",
+      "minecraft:repair_cost": "0",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"epic\""
     }
   },
   "minecraft:oak_sign": {
@@ -12303,14 +12303,14 @@
     "id": 931,
     "translationKey": "item.minecraft.fishing_rod",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "64",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "64",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "minecraft:clock": {
@@ -12944,29 +12944,29 @@
     "id": 982,
     "translationKey": "item.minecraft.filled_map",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:map_decorations": "{}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:map_color": "4603950",
       "minecraft:max_stack_size": "64",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:map_color": "4603950",
+      "minecraft:repair_cost": "0",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "minecraft:shears": {
     "id": 983,
     "translationKey": "item.minecraft.shears",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
-      "minecraft:tool": "{rules: [{blocks: \"minecraft:cobweb\", correct_for_drops: 1b, speed: 15.0f}, {blocks: \"#minecraft:leaves\", speed: 15.0f}, {blocks: \"#minecraft:wool\", speed: 5.0f}, {blocks: [\"minecraft:vine\", \"minecraft:glow_lichen\"], speed: 2.0f}]}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "238",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:tool": "{rules: [{blocks: \"minecraft:cobweb\", correct_for_drops: 1b, speed: 15.0f}, {blocks: \"#minecraft:leaves\", speed: 15.0f}, {blocks: \"#minecraft:wool\", speed: 5.0f}, {blocks: [\"minecraft:vine\", \"minecraft:glow_lichen\"], speed: 2.0f}]}",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "238",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "minecraft:melon_slice": {
@@ -14539,15 +14539,15 @@
     "id": 1093,
     "translationKey": "item.minecraft.mace",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
-      "minecraft:tool": "{damage_per_block: 2, rules: []}",
       "minecraft:attribute_modifiers": "{modifiers: [{amount: 5.0d, id: \"minecraft:base_attack_damage\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_damage\"}, {amount: -3.4000000953674316d, id: \"minecraft:base_attack_speed\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_speed\"}]}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "500",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"epic\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:tool": "{damage_per_block: 2, rules: []}",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "500",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"epic\""
     }
   },
   "minecraft:item_frame": {
@@ -14812,14 +14812,14 @@
     "id": 1114,
     "translationKey": "item.minecraft.enchanted_book",
     "components": {
+      "minecraft:attribute_modifiers": "{modifiers: []}",
+      "minecraft:max_stack_size": "1",
+      "minecraft:lore": "[]",
+      "minecraft:stored_enchantments": "{levels: {}}",
       "minecraft:enchantment_glint_override": "1b",
       "minecraft:repair_cost": "0",
       "minecraft:enchantments": "{levels: {}}",
-      "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:stored_enchantments": "{levels: {}}",
-      "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"uncommon\"",
-      "minecraft:lore": "[]"
+      "minecraft:rarity": "\"uncommon\""
     }
   },
   "minecraft:nether_brick": {
@@ -15457,15 +15457,15 @@
     "id": 1162,
     "translationKey": "item.minecraft.shield",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
-      "minecraft:banner_patterns": "[]",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "336",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:banner_patterns": "[]",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "336",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "minecraft:totem_of_undying": {
@@ -15521,14 +15521,14 @@
     "id": 1167,
     "translationKey": "item.minecraft.debug_stick",
     "components": {
+      "minecraft:attribute_modifiers": "{modifiers: []}",
+      "minecraft:max_stack_size": "1",
+      "minecraft:lore": "[]",
+      "minecraft:debug_stick_state": "{}",
       "minecraft:enchantment_glint_override": "1b",
       "minecraft:repair_cost": "0",
       "minecraft:enchantments": "{levels: {}}",
-      "minecraft:debug_stick_state": "{}",
-      "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"epic\"",
-      "minecraft:lore": "[]"
+      "minecraft:rarity": "\"epic\""
     }
   },
   "minecraft:music_disc_13": {
@@ -15794,15 +15794,15 @@
     "id": 1188,
     "translationKey": "item.minecraft.trident",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
-      "minecraft:tool": "{damage_per_block: 2, rules: []}",
       "minecraft:attribute_modifiers": "{modifiers: [{amount: 8.0d, id: \"minecraft:base_attack_damage\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_damage\"}, {amount: -2.9000000953674316d, id: \"minecraft:base_attack_speed\", operation: \"add_value\", slot: \"mainhand\", type: \"minecraft:generic.attack_speed\"}]}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "250",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"epic\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:tool": "{damage_per_block: 2, rules: []}",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "250",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"epic\""
     }
   },
   "minecraft:phantom_membrane": {
@@ -15845,15 +15845,15 @@
     "id": 1192,
     "translationKey": "item.minecraft.crossbow",
     "components": {
-      "minecraft:charged_projectiles": "[]",
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "465",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "465",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:charged_projectiles": "[]",
+      "minecraft:rarity": "\"common\""
     }
   },
   "minecraft:suspicious_stew": {
@@ -15861,13 +15861,13 @@
     "translationKey": "item.minecraft.suspicious_stew",
     "components": {
       "minecraft:food": "{can_always_eat: 1b, nutrition: 6, saturation: 7.2000003f, using_converts_to: {id: \"minecraft:bowl\"}}",
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
-      "minecraft:suspicious_stew_effects": "[]",
       "minecraft:attribute_modifiers": "{modifiers: []}",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:suspicious_stew_effects": "[]",
+      "minecraft:repair_cost": "0",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "minecraft:loom": {
@@ -16834,14 +16834,14 @@
     "id": 1268,
     "translationKey": "item.minecraft.brush",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "64",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "64",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "minecraft:netherite_upgrade_smithing_template": {
@@ -17611,13 +17611,13 @@
     "translationKey": "item.minecraft.ominous_bottle",
     "components": {
       "minecraft:food": "{nutrition: 1, saturation: 0.2f}",
+      "minecraft:attribute_modifiers": "{modifiers: []}",
+      "minecraft:max_stack_size": "64",
+      "minecraft:lore": "[]",
+      "minecraft:ominous_bottle_amplifier": "0",
       "minecraft:repair_cost": "0",
       "minecraft:enchantments": "{levels: {}}",
-      "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:ominous_bottle_amplifier": "0",
-      "minecraft:max_stack_size": "64",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:rarity": "\"common\""
     }
   },
   "minecraft:breeze_rod": {
@@ -17872,14 +17872,14 @@
     "id": 1352,
     "translationKey": "item.cobblemon.poke_rod",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "256",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "256",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "cobblemon:yellow_gilded_chest": {
@@ -17962,14 +17962,14 @@
     "id": 1359,
     "translationKey": "item.cobblemon.poke_rod",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "256",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "256",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "cobblemon:moon_stone_ore": {
@@ -18063,14 +18063,14 @@
     "id": 1367,
     "translationKey": "item.cobblemon.poke_rod",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "256",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "256",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "cobblemon:remedy": {
@@ -18401,28 +18401,28 @@
     "id": 1394,
     "translationKey": "item.cobblemon.poke_rod",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "256",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "256",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "cobblemon:lure_rod": {
     "id": 1395,
     "translationKey": "item.cobblemon.poke_rod",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "256",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "256",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "cobblemon:haban_berry": {
@@ -18505,14 +18505,14 @@
     "id": 1402,
     "translationKey": "item.cobblemon.poke_rod",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "256",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "256",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "cobblemon:awakening": {
@@ -18754,14 +18754,14 @@
     "id": 1422,
     "translationKey": "item.cobblemon.poke_rod",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "256",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "256",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "cobblemon:blue_mint_leaf": {
@@ -18880,14 +18880,14 @@
     "id": 1432,
     "translationKey": "item.cobblemon.poke_rod",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "256",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "256",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "cobblemon:sky_tumblestone_brick_slab": {
@@ -18995,14 +18995,14 @@
     "id": 1441,
     "translationKey": "item.cobblemon.poke_rod",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "256",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "256",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "cobblemon:maranga_berry": {
@@ -19230,28 +19230,28 @@
     "id": 1460,
     "translationKey": "item.cobblemon.poke_rod",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "256",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "256",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "cobblemon:dive_rod": {
     "id": 1461,
     "translationKey": "item.cobblemon.poke_rod",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "256",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "256",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "cobblemon:cracked_pot": {
@@ -19383,14 +19383,14 @@
     "id": 1472,
     "translationKey": "item.cobblemon.poke_rod",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "256",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "256",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "cobblemon:hopo_berry": {
@@ -19521,14 +19521,14 @@
     "id": 1483,
     "translationKey": "item.cobblemon.poke_rod",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "256",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "256",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "cobblemon:sachet": {
@@ -19818,14 +19818,14 @@
     "id": 1507,
     "translationKey": "item.cobblemon.poke_rod",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "256",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "256",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "cobblemon:npc_editor": {
@@ -20099,14 +20099,14 @@
     "id": 1530,
     "translationKey": "item.cobblemon.poke_rod",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "256",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "256",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "cobblemon:green_gilded_chest": {
@@ -20276,14 +20276,14 @@
     "id": 1544,
     "translationKey": "item.cobblemon.poke_rod",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "256",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "256",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "cobblemon:green_mint_leaf": {
@@ -20352,28 +20352,28 @@
     "id": 1550,
     "translationKey": "item.cobblemon.poke_rod",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "256",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "256",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "cobblemon:moon_rod": {
     "id": 1551,
     "translationKey": "item.cobblemon.poke_rod",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "256",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "256",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "cobblemon:pasture": {
@@ -20555,14 +20555,14 @@
     "id": 1566,
     "translationKey": "item.cobblemon.poke_rod",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "256",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "256",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "cobblemon:ancient_ultra_ball": {
@@ -20594,14 +20594,14 @@
     "id": 1569,
     "translationKey": "item.cobblemon.poke_rod",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "256",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "256",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "cobblemon:chople_berry": {
@@ -20621,14 +20621,14 @@
     "id": 1571,
     "translationKey": "item.cobblemon.poke_rod",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "256",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "256",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "cobblemon:zinc": {
@@ -21016,14 +21016,14 @@
     "id": 1603,
     "translationKey": "item.cobblemon.poke_rod",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "256",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "256",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "cobblemon:blue_mint_seeds": {
@@ -21130,14 +21130,14 @@
     "id": 1612,
     "translationKey": "item.cobblemon.poke_rod",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "256",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "256",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "cobblemon:polished_tumblestone_slab": {
@@ -21233,14 +21233,14 @@
     "id": 1620,
     "translationKey": "item.cobblemon.poke_rod",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "256",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "256",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "cobblemon:throat_spray": {
@@ -21386,14 +21386,14 @@
     "id": 1632,
     "translationKey": "item.cobblemon.poke_rod",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "256",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "256",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "cobblemon:ancient_citrine_ball": {
@@ -21578,14 +21578,14 @@
     "id": 1647,
     "translationKey": "item.cobblemon.poke_rod",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "256",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "256",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "cobblemon:exp_candy_xl": {
@@ -21703,14 +21703,14 @@
     "id": 1657,
     "translationKey": "item.cobblemon.poke_rod",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "256",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "256",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "cobblemon:rock_gem": {
@@ -22048,14 +22048,14 @@
     "id": 1685,
     "translationKey": "item.cobblemon.poke_rod",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "256",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "256",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "cobblemon:impish_mint": {
@@ -22249,28 +22249,28 @@
     "id": 1701,
     "translationKey": "item.cobblemon.poke_rod",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "256",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "256",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "cobblemon:net_rod": {
     "id": 1702,
     "translationKey": "item.cobblemon.poke_rod",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "256",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "256",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "cobblemon:wacan_berry": {
@@ -22415,14 +22415,14 @@
     "id": 1714,
     "translationKey": "item.cobblemon.poke_rod",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "256",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "256",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "cobblemon:loamy_mulch": {
@@ -22666,14 +22666,14 @@
     "id": 1734,
     "translationKey": "item.cobblemon.poke_rod",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "256",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "256",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "cobblemon:old_amber_fossil": {
@@ -22793,14 +22793,14 @@
     "id": 1744,
     "translationKey": "item.cobblemon.poke_rod",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "256",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "256",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "cobblemon:dream_ball": {
@@ -23051,28 +23051,28 @@
     "id": 1765,
     "translationKey": "item.cobblemon.poke_rod",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "256",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "256",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "cobblemon:ancient_heavy_rod": {
     "id": 1766,
     "translationKey": "item.cobblemon.poke_rod",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "256",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "256",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "cobblemon:terrain_extender": {
@@ -23338,14 +23338,14 @@
     "id": 1788,
     "translationKey": "item.cobblemon.poke_rod",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "256",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "256",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "cobblemon:qualot_berry": {
@@ -23451,14 +23451,14 @@
     "id": 1797,
     "translationKey": "item.cobblemon.poke_rod",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "256",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "256",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "cobblemon:cherish_ball": {
@@ -23550,14 +23550,14 @@
     "id": 1805,
     "translationKey": "item.cobblemon.poke_rod",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "256",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "256",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "cobblemon:leppa_berry": {
@@ -23949,14 +23949,14 @@
     "id": 1837,
     "translationKey": "item.cobblemon.poke_rod",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "256",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "256",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "cobblemon:soft_sand": {
@@ -24023,14 +24023,14 @@
     "id": 1843,
     "translationKey": "item.cobblemon.poke_rod",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "256",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "256",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "cobblemon:assault_vest": {
@@ -24049,14 +24049,14 @@
     "id": 1845,
     "translationKey": "item.cobblemon.poke_rod",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "256",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "256",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "cobblemon:carbos": {
@@ -24223,14 +24223,14 @@
     "id": 1859,
     "translationKey": "item.cobblemon.poke_rod",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "256",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "256",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "cobblemon:electric_gem": {
@@ -24348,14 +24348,14 @@
     "id": 1869,
     "translationKey": "item.cobblemon.poke_rod",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "256",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "256",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "cobblemon:pokedex_green": {
@@ -24412,14 +24412,14 @@
     "id": 1874,
     "translationKey": "item.cobblemon.poke_rod",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "256",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "256",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "cobblemon:grepa_berry": {
@@ -24439,14 +24439,14 @@
     "id": 1876,
     "translationKey": "item.cobblemon.poke_rod",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "256",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "256",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "cobblemon:ancient_leaden_ball": {
@@ -24777,28 +24777,28 @@
     "id": 1903,
     "translationKey": "item.cobblemon.poke_rod",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "256",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "256",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "cobblemon:premier_rod": {
     "id": 1904,
     "translationKey": "item.cobblemon.poke_rod",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "256",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "256",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "cobblemon:hyper_potion": {
@@ -25153,14 +25153,14 @@
     "id": 1933,
     "translationKey": "item.cobblemon.poke_rod",
     "components": {
-      "minecraft:repair_cost": "0",
-      "minecraft:enchantments": "{levels: {}}",
       "minecraft:attribute_modifiers": "{modifiers: []}",
-      "minecraft:damage": "0",
-      "minecraft:max_damage": "256",
       "minecraft:max_stack_size": "1",
-      "minecraft:rarity": "\"common\"",
-      "minecraft:lore": "[]"
+      "minecraft:lore": "[]",
+      "minecraft:damage": "0",
+      "minecraft:repair_cost": "0",
+      "minecraft:max_damage": "256",
+      "minecraft:enchantments": "{levels: {}}",
+      "minecraft:rarity": "\"common\""
     }
   },
   "cobblemon:power_band": {
